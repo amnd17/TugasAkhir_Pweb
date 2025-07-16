@@ -16,7 +16,7 @@
   </header>
 
   <nav>
-    <a href="index.html">Beranda</a>
+    <a href="index.html">Beranda</a><br>
     <a href="about.html">Tentang Kami</a>
     <a href="services.html">Layanan</a>
     <a href="contact.php">Kontak</a>
